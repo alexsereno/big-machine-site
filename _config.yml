@@ -7,7 +7,8 @@ ios_app_country                           : us                                  
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
-presskit_download_link                    : alexsereno.dev                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
+presskit_download_link                    : https://www.alexsereno.dev
+                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
@@ -21,7 +22,7 @@ enable_smart_app_banner                   : true                                
 
 # Information About Yourself
 your_name                                 : Alex Sereno                                
-your_link                                 : asereno.com               
+your_link                                 : https://www.alexsereno.dev               
 your_city                                 : Austin, TX                                
 email_address                             : me@alexsereno.dev
 facebook_username                         :                                           
@@ -35,40 +36,40 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title                                 : Magical set and weight progression 
+    description                           : No math required! Automatically calculates sets and reps for your next workout!
     fontawesome_icon_name                 : magic
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+  - title                                 : Extremely smart UI
+    description                           : Less time clicking dozens of little buttons during a workout
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Automatic rest timers!
+    description                           : Rest optimally, and reach each set with intensity
+    fontawesome_icon_name                 : timer
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+  - title                                 : Unlimited workout backups
+    description                           : All your workouts are synced to iCloud!
     fontawesome_icon_name                 : sync
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Automatic light / dark themes
+    description                           : Late night workouts that are as easy on the eyes as you are ;)
     fontawesome_icon_name                 : adjust
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Amazing features being added all the time
+    description                           : Rapid updates! Want a new feature? Request it!
     fontawesome_icon_name                 : star
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
+  - title                                 : Charts!
+    description                           : Watch your progress throughout the year and feel a sense of pride an accomplishment
+    fontawesome_icon_name                 : chart
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Easily share your workouts and progress!
+    description                           : Gym buddy want to cop your workout? Need to send your coach a chart of your gains? Share with just a click!
     fontawesome_icon_name                 : link
 
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
+  - title                                 : No need to pay rent!
+    description                           : You can choose to buy the product outright, if subscriptions aren't your thing! Lower than the cost of a new notebook ;)
     fontawesome_icon_name                 : info-circle
 
   - title                                 : # New Feature Title

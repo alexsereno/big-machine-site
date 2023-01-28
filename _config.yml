@@ -46,7 +46,7 @@ features                                  :
 
   - title                                 : Automatic rest timers!
     description                           : Rest optimally, and reach each set with intensity
-    fontawesome_icon_name                 : timer
+    fontawesome_icon_name                 : stopwatch 
 
   - title                                 : Unlimited workout backups
     description                           : All your workouts are synced to iCloud!
@@ -62,7 +62,7 @@ features                                  :
 
   - title                                 : Charts!
     description                           : Watch your progress throughout the year and feel a sense of pride an accomplishment
-    fontawesome_icon_name                 : chart
+    fontawesome_icon_name                 : chart-line
 
   - title                                 : Easily share your workouts and progress!
     description                           : Gym buddy want to cop your workout? Need to send your coach a chart of your gains? Share with just a click!
@@ -70,7 +70,7 @@ features                                  :
 
   - title                                 : No need to pay rent!
     description                           : You can choose to buy the product outright, if subscriptions aren't your thing! Lower than the cost of a new notebook ;)
-    fontawesome_icon_name                 : info-circle
+    fontawesome_icon_name                 : credit-card 
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
